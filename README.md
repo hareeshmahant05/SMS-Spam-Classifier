@@ -1,1 +1,1 @@
-This is the text classification model to classify SMS as either spam or non-spam using data science techniques in python.
+This code builds a basic SMS classifier model in Python using the Naive Bayes algorithm. It tokenizes SMS messages, converts them into numerical feature vectors, trains the classifier, and evaluates its performance on a separate testing dataset.
